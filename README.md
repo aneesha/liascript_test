@@ -27,10 +27,12 @@ A paragraph with a link - [Markdown](https://en.wikipedia.org/wiki/Markdown) for
 2. beta
 
 a highlighted block
+
 > This is a highlighted block
 > Just normal markdown here too
 
 a block with a quote that with underlined text
+
 > "_Let the editor be your canvas and the keyboard your brush._"
 
 ## Sub-section
@@ -45,18 +47,18 @@ A paragraph in a new sub-sub-section with a link - [Markdown](https://en.wikiped
 ## Quiz Questions
 
 Select one option question:
-[( )] Not selected
-[(X)] The X means correct
-[( )] Incorrect
+  [( )] Not selected
+  [(X)] The X means correct
+  [( )] Incorrect
 
 Multiple possible options correct:
-[[ ]] Empty means not checked
-[[X]] Uppercase `X` means checked ...
-[[x]] ... and lowercase `x` too ...
-[[ ]] Another option that is not correct
+  [[ ]] Empty means not checked
+  [[X]] Uppercase `X` means checked ...
+  [[x]] ... and lowercase `x` too ...
+  [[ ]] Another option that is not correct
 
 Short Answer question
 What did the fish say when he swam into the wall?
-[[answer]]
+    `[[answer]]`
 
 
