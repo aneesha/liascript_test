@@ -23,6 +23,7 @@ A paragraph with a link - [Markdown](https://en.wikipedia.org/wiki/Markdown) for
 * Bullet point 3
 
 **An ordered list**
+
 1. alpha
 2. beta
 
@@ -47,11 +48,13 @@ A paragraph in a new sub-sub-section with a link - [Markdown](https://en.wikiped
 ## Quiz Questions
 
 Select one option question:
+
   [( )] Not selected
   [(X)] The X means correct
   [( )] Incorrect
 
 Multiple possible options correct:
+
   [[ ]] Empty means not checked
   [[X]] Uppercase `X` means checked ...
   [[x]] ... and lowercase `x` too ...
@@ -59,6 +62,7 @@ Multiple possible options correct:
 
 Short Answer question
 What did the fish say when he swam into the wall?
-    `[[answer]]`
 
+    [[answer]]
 
+This is the end.
